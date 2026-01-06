@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Components ---------------------------------------">
+      <UniqueIdentifier>{ef15668b-7ab9-42f7-aeb0-54cca82d4b6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core ---------------------------------------">
+      <UniqueIdentifier>{6a239a13-e581-4544-91b7-2823d3beb2d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Events ---------------------------------------">
+      <UniqueIdentifier>{6dc3ee76-2289-4ba9-9bcd-14395ffb12da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FSM ---------------------------------------">
+      <UniqueIdentifier>{258005bd-4e24-4761-8637-b182b42a2147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platform ---------------------------------------">
+      <UniqueIdentifier>{727b1bd5-57e7-404a-98e2-fa3d68d19ce8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources ---------------------------------------">
+      <UniqueIdentifier>{746f093d-8005-4eaa-a176-358eaf263a22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems ---------------------------------------">
+      <UniqueIdentifier>{6b13a259-a55b-4e4d-9d16-21715a1edd06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility ---------------------------------------">
+      <UniqueIdentifier>{364ce301-1fa0-4776-bfe0-45f79923aa52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Utility ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.hpp">
+      <Filter>Platform ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct2DWrapper.hpp">
+      <Filter>Platform ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.hpp">
+      <Filter>Core ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRendererComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemManager.hpp">
+      <Filter>Core ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.hpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationClip.hpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.hpp">
+      <Filter>Core ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="TextRendererComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="TextFormatCache.hpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="BrushManager.hpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameData.hpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicBodyComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="KinematicBodyComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionFlagComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionResolverSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Utility ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Platform ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct2DWrapper.cpp">
+      <Filter>Platform ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="IComponent.hpp">
+      <Filter>Core ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="Delegate.hpp">
+      <Filter>Events ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="Singleton.hpp">
+      <Filter>Core ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="InputEventSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapResource.hpp">
+      <Filter>Resources ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="Json.hpp">
+      <Filter>Utility ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="IFSM.hpp">
+      <Filter>FSM ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="FSMComponent.hpp">
+      <Filter>Components ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicMovementSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="KinematicMovementSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionEventSystem.hpp">
+      <Filter>Systems ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsSystemManager.hpp">
+      <Filter>Core ---------------------------------------</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "no003_01.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 152,
+        "h": 404
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 404
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 404
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "no003_00.png": {
+      "frame": {
+        "x": 161,
+        "y": 3,
+        "w": 166,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 443
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "no003_02.png": {
+      "frame": {
+        "x": 333,
+        "y": 3,
+        "w": 166,
+        "h": 443
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 443
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 443
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Noel_Change.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

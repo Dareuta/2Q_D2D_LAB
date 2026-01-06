@@ -1,0 +1,584 @@
+{
+  "no202": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no202_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_09.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_10.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_11.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no202_12.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no330": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no330_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_09.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_10.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no330_11.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no003": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no003_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no003_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no003_02.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "vrnoef": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "vrnoef_gunfireb00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfireb01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfireb02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfireb03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfireb04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfireb05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfirec00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfirec01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfirec02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfirec03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfirec04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "vrnoef_gunfirec05.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no000": {
+    "looping": true,
+    "frames": [
+      {
+        "name": "no000_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no000_07.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no020": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no020_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no020_07.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no021": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no021_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no021_09.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no022": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no022_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no022_08.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no024": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no024_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no024_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no024_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no024_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no024_04.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no023": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no023_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no023_01.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no032": {
+    "looping": true,
+    "frames": [
+      {
+        "name": "no032_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_09.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_10.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no032_11.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no031": {
+    "looping": true,
+    "frames": [
+      {
+        "name": "no031_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_09.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no031_10.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no030": {
+    "looping": true,
+    "frames": [
+      {
+        "name": "no030_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_09.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_10.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no030_11.png",
+        "duration": 0.1
+      }
+    ]
+  },
+  "no605": {
+    "looping": false,
+    "frames": [
+      {
+        "name": "no605_00.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_01.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_02.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_03.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_04.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_05.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_06.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_07.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_08.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_09.png",
+        "duration": 0.1
+      },
+      {
+        "name": "no605_10.png",
+        "duration": 0.1
+      }
+    ]
+  }
+}

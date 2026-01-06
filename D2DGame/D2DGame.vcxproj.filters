@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Characters ---------------------------------------">
+      <UniqueIdentifier>{f7f88e48-8434-463a-bb4d-3d7eca099328}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config ---------------------------------------">
+      <UniqueIdentifier>{c0d05307-5308-4fc5-8dbb-bc4b43c2304b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entry ---------------------------------------">
+      <UniqueIdentifier>{e01a7ed1-8fb2-4e04-8bce-5bc4b1e7edcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes ---------------------------------------">
+      <UniqueIdentifier>{34c8f326-3e9b-4ca1-bf48-b92ce3efd135}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts ---------------------------------------">
+      <UniqueIdentifier>{99974c8a-a827-4887-be72-aaf5fce52e08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI ---------------------------------------">
+      <UniqueIdentifier>{17df54e9-753f-4a71-8493-31e75265d3bf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Entry ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGameApp.cpp">
+      <Filter>Entry ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationScene.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="FSMScene.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationAssets.hpp">
+      <Filter>Config ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="FSMNoel.hpp">
+      <Filter>Characters ---------------------------------------</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsScene.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyGameApp.hpp">
+      <Filter>Entry ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="VRAMTestScene.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneCore.hpp">
+      <Filter>Scenes ---------------------------------------</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

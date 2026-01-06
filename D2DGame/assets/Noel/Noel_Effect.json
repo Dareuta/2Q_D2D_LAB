@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "vrnoef_gunfireb01.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 492,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 492,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 492,
+        "h": 299
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfireb03.png": {
+      "frame": {
+        "x": 501,
+        "y": 3,
+        "w": 376,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 376,
+        "h": 298
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfireb02.png": {
+      "frame": {
+        "x": 883,
+        "y": 3,
+        "w": 370,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 370,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 370,
+        "h": 297
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfirec01.png": {
+      "frame": {
+        "x": 1259,
+        "y": 3,
+        "w": 368,
+        "h": 236
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 368,
+        "h": 236
+      },
+      "sourceSize": {
+        "w": 368,
+        "h": 236
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfirec02.png": {
+      "frame": {
+        "x": 1633,
+        "y": 3,
+        "w": 362,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 362,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 362,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfireb04.png": {
+      "frame": {
+        "x": 1259,
+        "y": 245,
+        "w": 338,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 338,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 338,
+        "h": 307
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfireb05.png": {
+      "frame": {
+        "x": 883,
+        "y": 306,
+        "w": 326,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 326,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 326,
+        "h": 152
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfirec03.png": {
+      "frame": {
+        "x": 501,
+        "y": 307,
+        "w": 320,
+        "h": 194
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 194
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 194
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfirec05.png": {
+      "frame": {
+        "x": 827,
+        "y": 464,
+        "w": 294,
+        "h": 221
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 294,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 294,
+        "h": 221
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfirec04.png": {
+      "frame": {
+        "x": 1603,
+        "y": 246,
+        "w": 292,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 292,
+        "h": 201
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfireb00.png": {
+      "frame": {
+        "x": 1603,
+        "y": 453,
+        "w": 208,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 218
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "vrnoef_gunfirec00.png": {
+      "frame": {
+        "x": 1817,
+        "y": 453,
+        "w": 168,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Noel_Effect.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}
